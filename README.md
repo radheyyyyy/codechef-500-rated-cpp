@@ -25,4 +25,4 @@ Progress: Solving 100 beginner-rated problems consistently
 
 ## Progress Log
 
-- 21 May 2026 → Solved 16 CodeChef beginner problems in C++
+- 20 May 2026 → Solved 17 CodeChef beginner problems in C++

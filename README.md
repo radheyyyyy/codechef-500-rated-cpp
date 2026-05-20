@@ -4,24 +4,32 @@ This repository contains my solutions to CodeChef problems with difficulty ratin
 
 It is a part of my DSA and Competitive Programming journey where I practice beginner-level problems to strengthen:
 
-* Problem-solving skills
-* Logic building
-* C++ fundamentals
-* Time complexity understanding
+- Problem-solving skills
+- Logic building
+- C++ fundamentals
+- Time complexity understanding
 
-Topics covered:
+## Topics Covered
 
-* Conditions & Loops
-* Functions
-* Arrays
-* Math
-* Basic Implementation
-* Input/Output Handling
+- Conditions & Loops
+- Functions
+- Arrays
+- Math
+- Basic Implementation
+- Input/Output Handling
 
-Platform: CodeChef
-Language: C++
+## Platform & Language
 
-Progress: Solving 100 beginner-rated problems consistently
+- Platform: CodeChef
+- Language: C++
+
+## Coding Profile
+
+- CodeChef: https://www.codechef.com/users/csjmu_25_107
+
+## Goal
+
+Solving 100 beginner-rated problems consistently to build a strong foundation in DSA and Competitive Programming.
 
 ## Progress Log
 
